@@ -1,5 +1,3 @@
-![Suhaib Banner](images/banner.png)
-
 # 👋 Hi, I'm Suhaib Alrefaee
 
 🎯 **Independent Data Governance & Quality Consultant**  

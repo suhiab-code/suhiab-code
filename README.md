@@ -32,6 +32,7 @@ I help Saudi organizations build sustainable data governance frameworks, design 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/suhaib-alrefaee) *(if available)*
 
 ---
+Added CDMP badge
 
 > “Clarity, compliance, and impact—these are the pillars of my work.”
 

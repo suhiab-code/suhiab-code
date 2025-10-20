@@ -26,6 +26,13 @@ I help Saudi organizations build sustainable data governance frameworks, design 
 - Sharing reviewer-friendly projects via GitHub & Google Colab
 
 ---
+## 🛠️ Skills & Certifications
+
+![CDMP Certified](https://img.shields.io/badge/CDMP-Certified-blue)
+![ISO Compliance](https://img.shields.io/badge/ISO-Compliant-green)
+![Power BI](https://img.shields.io/badge/PowerBI-Expert-yellow)
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+
 
 ## 📫 Let's Connect
 - 📧 suhiab@yahoo.com  

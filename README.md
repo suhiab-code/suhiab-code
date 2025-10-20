@@ -17,6 +17,36 @@ I help Saudi organizations build sustainable data governance frameworks, design 
 - [📈 Stock Revenue Analysis – Coursera Project](https://github.com/suhiab-code/stock-revenue-analysis)  
 - ⚡ DMO Setup for SUYAN – Electricity Sector *(private)*  
 - 🏥 Metadata Repository for Yastabshiroon Hospitals *(private)*
+---
+
+## 🧩 Selected Projects & Deliverables
+
+🔹 **Car Sales Dashboard – IBM Cognos & Excel**  
+📅 Oct 2025 | Coursera Project  
+- Designed interactive dashboards to visualize car sales, profit, and recall sentiment across models and dealers.  
+- Used Cognos and Excel to build executive-ready reports aligned with PDPL and BI standards.  
+- Delivered insights on performance trends and compliance metrics.  
+- [Verified Certificate](https://coursera.org/verify/BDQQ7REFD8YB)
+
+🔹 **Stock Revenue Analysis – Python & Web Scraping**  
+📅 Oct 2025 | Coursera Project  
+- Extracted and visualized Tesla & GameStop stock and revenue data using `yfinance`, `BeautifulSoup`, and `plotly`.  
+- Built dual-axis dashboards to compare financial performance over time.  
+- Documented each step with humanized captions and screenshots for reviewer clarity.  
+- [GitHub Repository](https://github.com/suhiab-code/stock-revenue-analysis)
+
+🔹 **DMO Implementation – SUYAN Energy**  
+📅 2021 – Present | Riyadh  
+- Established a full Data Management Office (DMO) from scratch.  
+- Designed governance framework aligned with NDMO and PDPL.  
+- Built metadata repository, business glossary, and dashboards for executive reporting.  
+- Led a team of 6 analysts and coordinated with leadership on strategic data initiatives.
+
+🔹 **Metadata Repository – Yastabshiroon Hospitals**  
+📅 2017 – 2021 | Khartoum  
+- Delivered enterprise data dictionary and business glossary for healthcare operations.  
+- Automated reporting pipelines and dashboards for insurance and clinical data.  
+- Ensured compliance with internal healthcare data standards and PDPL protocols.
 
 ---
 
@@ -41,4 +71,4 @@ I help Saudi organizations build sustainable data governance frameworks, design 
 ---
 
 > “Clarity, compliance, and impact—these are the pillars of my work.”
-
+Added Selected Projects section to profile README
